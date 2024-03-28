@@ -12,12 +12,12 @@
   },
   "keywords": [],
   "dependencies": {
-    "@builderbot/bot": "dev",
-    "@builderbot/provider-baileys": "dev"
+    "@builderbot/bot": "1.0.28-alpha.0",
+    "@builderbot/provider-baileys": "1.0.28-alpha.0"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@types/node": "^20.11.30",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
     "eslint": "^8.52.0",
     "eslint-plugin-builderbot": "dev",
     "rollup": "^4.10.0",
