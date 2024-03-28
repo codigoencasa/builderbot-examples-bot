@@ -12,14 +12,14 @@
   },
   "keywords": [],
   "dependencies": {
-    "@builderbot/bot": "latest",
-    "@builderbot/provider-baileys": "latest"
+    "@builderbot/bot": "dev",
+    "@builderbot/provider-baileys": "dev"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^7.2.0",
     "@types/node": "^20.11.30",
     "eslint": "^8.52.0",
-    "eslint-plugin-builderbot": "latest",
+    "eslint-plugin-builderbot": "dev",
     "rollup": "^4.10.0",
     "rollup-plugin-typescript2": "^0.36.0",
     "tsx": "^4.7.1"
